@@ -15,7 +15,7 @@ The system allows users to safely store and manage their credentials while ensur
 ##  Features
 
 ### ✅ Implemented Features
--  **Master Password Authentication**
+- **Master Password Authentication**
   - Secure login using salted and hashed passwords
 
 - **Password Vault (CRUD)**
