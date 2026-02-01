@@ -15,32 +15,32 @@ The system allows users to safely store and manage their credentials while ensur
 ## ✨ Features
 
 ### ✅ Implemented Features
-- 🔑 **Master Password Authentication**
+-   **Master Password Authentication**
   - Secure login using salted and hashed passwords
 
-- 🗄 **Password Vault (CRUD)**
+-   **Password Vault (CRUD)**
   - Add, view, update, and delete stored credentials  
   - Credentials stored using **AES encryption**
 
-- 🏷 **Tagging & Search**
+-   **Tagging & Search**
   - Organize credentials using tags  
   - Search by site name or tags
 
-- 🔐 **Password Generator**
+-   **Password Generator**
   - Customizable length and character sets
 
-- 📊 **Password Health Report**
+-   **Password Health Report**
   - Strength analysis (Weak/Medium/Strong)
   - Duplicate password detection
   - Expiry tracking based on `LastRotated` field
 
-- ⏳ **Password Expiry & Reminders**
+-   **Password Expiry & Reminders**
   - Highlights old passwords that need updating
 
-- 📋 **Clipboard Auto-Clear**
+-   **Clipboard Auto-Clear**
   - Prevents passwords from staying in clipboard
 
-- 🎨 **Centralized UI using Master Page**
+-   **Centralized UI using Master Page**
   - `Main_Master_file.Master` provides:
     - Left navigation panel
     - Logout and Profile section at bottom
